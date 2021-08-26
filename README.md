@@ -1,10 +1,12 @@
 # Social-Media-App-MERN-STACK
+
 Technologies used in this app
+
 - ReactJS,
 - Redux,
 - Node.js,
 - Express,
-- MongoDB 
+- MongoDB
 
 Setup:
 
